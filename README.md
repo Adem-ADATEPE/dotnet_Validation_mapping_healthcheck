@@ -9,4 +9,4 @@
 - Response Caching
 - IHttpClientFactory
 
-![Validation 1](/BP.Api/iamge/validations.PNG)
+![Validation 1](BP.Api/image/validations.PNG)
